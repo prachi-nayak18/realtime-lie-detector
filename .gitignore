@@ -1,0 +1,9 @@
+node_modules/
+pycache/
+*.pyc
+.env
+ml_models/
+.DS_Store
+frontend/dist/
+*.pt
+*.pth
